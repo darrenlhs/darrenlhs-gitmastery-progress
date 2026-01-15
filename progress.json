@@ -326,5 +326,14 @@
       "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768469475.640121,
+    "completed_at": 1768469480.850631,
+    "comments": [
+      "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
   }
 ]
