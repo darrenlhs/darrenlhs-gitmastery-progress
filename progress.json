@@ -261,5 +261,15 @@
       "Great work using git tag to annotate various commits in the repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1768467757.923443,
+    "completed_at": 1768467763.238505,
+    "comments": [
+      "The 'first-update' tag still exists.",
+      "You are missing the 'january-update' tag."
+    ],
+    "status": "Incomplete"
   }
 ]
