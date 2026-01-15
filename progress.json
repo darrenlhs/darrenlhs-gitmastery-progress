@@ -335,5 +335,14 @@
       "Answer for Which are the new values in modified but unstaged files? does not contain all of the right answers."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1768469669.101992,
+    "completed_at": 1768469672.123499,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
